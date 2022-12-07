@@ -1,12 +1,15 @@
 # **Cashier Project**
 
-### **Backgorund Project**
+
+## **Background Project**
 
 Seseorang ingin membuat sistem kasir dengan self-service oriented pada supermarket miliknya, 
 sehingga pelanggan di supermarket tersebut bisa langsung menginput item beserta jumlah dan harganya tanpa bantuan orang lain.  Sistem kasir ini diharapkan dapat menampilkan hasil dari total barang yang dibeli beserta diskon dengan ketentuan yang berlaku. 
 Sistem ini juga memungkin orang yang tidak berada di supermarket tersebut juga dapat memesan barang tersebut.
 
-### **Requirements/Objective and Program Flow**
+
+
+## **Requirements/Objective and Program Flow**
 
 1. Membuat program untuk menampung list pada barang yang akan dibeli.
 	- Langkah pertama kita membutuhkan input pada method add_item() berupa nama, qty dan harga.
@@ -32,6 +35,9 @@ Sistem ini juga memungkin orang yang tidak berada di supermarket tersebut juga d
 	- Langkah pertama kita tidak membutuhkan input parameter seperti pada method sebelumnya di method total_price() dengan asumsi database tidak kosong atau direset menggunakan method reset_transaction().
 	- Input masuk ke proses method dan akan menampilkan list barang yang akan dibayar beserta harga setelah diskon.
 	- Jika terjadi ketidaksesuaian input yang diharapkan, sistem akan mengalami error.
+
+
+
 
 ## **Code Explanation**
 
@@ -82,7 +88,9 @@ Sistem ini juga memungkin orang yang tidak berada di supermarket tersebut juga d
 - Pada test case ini, customer ingin mengetahui apa saja barang yang telah dibeli beserta total dari seluruh harga setelah potongan yang berlaku dengan daftar belanjaan yang baru.
 ![t4](https://user-images.githubusercontent.com/103387586/206279876-41c6c895-4021-471b-bfda-787cf6e3c2bd.png)
 
-## **Conlusion and Future Work**
+
+
+## **Conclusion and Future Work**
 Dengan membuat program sederhana tersebut, diharapkan customer dapat membuat order secara mandiri dari supermarket tersebut maupun dari tempat customer berada, namun masih terdapat beberapa fitur yang harus ditambah jika programmer ada waktu lebih, yaitu membuat defence programming mechanism yang lebih complex, menambah fitur voucher jika memungkinkan dan memiliki sistem input yang lebih interaktif.
 
 
