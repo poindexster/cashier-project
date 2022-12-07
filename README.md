@@ -36,6 +36,62 @@ Sistem ini juga memungkin orang yang tidak berada di supermarket tersebut juga d
 ## **Penjelasan Code**
 
 1. Fungsi 1
+![f1](https://user-images.githubusercontent.com/103387586/206279781-46b6c1fd-d297-48fc-88a4-40a44ae28760.png)
+
+2. Fungsi 2
+![f2](https://user-images.githubusercontent.com/103387586/206279826-75481aea-7c3c-4550-91bc-afc097ae10ef.png)
+
+3. Fungsi 3
+![f3](https://user-images.githubusercontent.com/103387586/206279834-72a6ecb5-14ec-41b5-9286-1ade81abafa4.png)
+
+4. Fungsi 4
+![f4](https://user-images.githubusercontent.com/103387586/206279836-af27fb14-5c41-479e-b020-b1da0c51d1d6.png)
+
+5. Fungsi 5
+![f5](https://user-images.githubusercontent.com/103387586/206279842-7dc00fe2-3826-4f61-94a1-d641aa9e7ede.png)
+
+6. Fungsi 6
+![f6](https://user-images.githubusercontent.com/103387586/206279845-3fb9236a-a5d9-4520-85bc-f27f00eb0500.png)
+
+7. Fungsi 7
+![f7](https://user-images.githubusercontent.com/103387586/206279848-25f35e90-6565-4326-8e40-a9de036f4364.png)
+
+8. Fungsi 8
+![f8](https://user-images.githubusercontent.com/103387586/206279852-f611e211-ad82-47cd-8d12-b26f74344e76.png)
+
+9. Fungsi 9
+![f9](https://user-images.githubusercontent.com/103387586/206279857-e8535898-671b-4779-ae91-041e6f358247.png)
+
+10. Fungsi 10
+![f10](https://user-images.githubusercontent.com/103387586/206279858-2b5e3f3b-9f81-4e86-aa85-23c7bcd9342e.png)
+
+## **Test Case**
+1. Test Case 1
+- Pada test case ini, customer ingin menambahkan list item dengan menggunakan method add_item() dengan output berupa list barang tersebut.
+![t1](https://user-images.githubusercontent.com/103387586/206279864-cf2bfb5e-c8a5-4d2b-b403-3ce6f03cb2f1.png)
+
+2. Test Case 2
+- Pada test case ini, customer ingin menghapus salah satu item dengan menggunakan method delete_item() sehingga menyisakan barang yang ingin benar-benar dibeli.
+![t2](https://user-images.githubusercontent.com/103387586/206279868-cce4524e-aedd-44e0-8223-f2f9cd59124d.png)
+
+3. Test Case 3
+- Pada test case ini, customer ingin menghapus seluruh barang yang telah dilist sebelumnya atau mereset daftar belanjaan sehingga menghasilkan output list kosong dan akan menunjukkan sebuah pesan yang menandakan list item telah direset.
+![t3](https://user-images.githubusercontent.com/103387586/206279872-a5047b41-c9f8-4944-8a75-45cce42ebdfe.png)
+
+4. Test Case 4
+- Pada test case ini, customer ingin mengetahui apa saja barang yang telah dibeli beserta total dari seluruh harga setelah potongan yang berlaku dengan daftar belanjaan yang baru.
+![t4](https://user-images.githubusercontent.com/103387586/206279876-41c6c895-4021-471b-bfda-787cf6e3c2bd.png)
+
+## **Conlusion**
+Dengan membuat program sederhana tersebut, diharapkan customer dapat membuat order secara mandiri dari supermarket tersebut maupun dari tempat customer berada, namun masih terdapat beberapa fitur yang harus ditambah jika programmer ada waktu lebih, yaitu membuat defence programming mechanism yang lebih complex, menambah fitur voucher jika memungkinkan dan memiliki sistem input yang lebih interaktif.
+
+
+
+
+
+
+
+
 
 	
 	
